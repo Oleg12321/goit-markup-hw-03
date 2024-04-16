@@ -177,6 +177,7 @@ img{
 	justify-content: space-between;
 	align-items: center;
 	gap: 24px; 
+	padding: 0;
 }
 .main__item {
 	flex-basis: calc((100% - 72px) / 4);
